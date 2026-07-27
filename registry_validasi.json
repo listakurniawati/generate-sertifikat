@@ -1,0 +1,47 @@
+[
+  {
+    "cert_id": "020903245000002-36F59B18",
+    "name": "Lista Kurniawati",
+    "student_number": "020903245000002",
+    "test_date": "03 Sep 2024",
+    "listening": "53",
+    "structure": "44",
+    "reading": "52",
+    "listening_cefr": "B1",
+    "structure_cefr": "B1",
+    "reading_cefr": "B1",
+    "total_score": "497",
+    "qr_payload": "https://<username>.github.io/<nama-repo>/verify.html?id=020903245000002-36F59B18",
+    "generated_at": "2026-07-27T03:25:12"
+  },
+  {
+    "cert_id": "020903245000015-D517CDEC",
+    "name": "Ahmad Fauzan",
+    "student_number": "020903245000015",
+    "test_date": "03 Sep 2024",
+    "listening": "60",
+    "structure": "58",
+    "reading": "61",
+    "listening_cefr": "B2",
+    "structure_cefr": "B2",
+    "reading_cefr": "B2",
+    "total_score": "590",
+    "qr_payload": "https://<username>.github.io/<nama-repo>/verify.html?id=020903245000015-D517CDEC",
+    "generated_at": "2026-07-27T03:25:12"
+  },
+  {
+    "cert_id": "020903245000031-C1A67B3D",
+    "name": "Dewi Anggraini",
+    "student_number": "020903245000031",
+    "test_date": "03 Sep 2024",
+    "listening": "42",
+    "structure": "40",
+    "reading": "45",
+    "listening_cefr": "A2",
+    "structure_cefr": "A2",
+    "reading_cefr": "B1",
+    "total_score": "437",
+    "qr_payload": "https://<username>.github.io/<nama-repo>/verify.html?id=020903245000031-C1A67B3D",
+    "generated_at": "2026-07-27T03:25:12"
+  }
+]
